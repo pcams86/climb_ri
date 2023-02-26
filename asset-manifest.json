@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/climb_ri/static/css/main.e4340c1c.css",
-    "main.js": "/climb_ri/static/js/main.9f95dc21.js",
+    "main.css": "/climb_ri/static/css/main.3a4f9fea.css",
+    "main.js": "/climb_ri/static/js/main.cfb623f5.js",
     "static/js/787.9b855c6a.chunk.js": "/climb_ri/static/js/787.9b855c6a.chunk.js",
     "index.html": "/climb_ri/index.html",
-    "main.e4340c1c.css.map": "/climb_ri/static/css/main.e4340c1c.css.map",
-    "main.9f95dc21.js.map": "/climb_ri/static/js/main.9f95dc21.js.map",
+    "main.3a4f9fea.css.map": "/climb_ri/static/css/main.3a4f9fea.css.map",
+    "main.cfb623f5.js.map": "/climb_ri/static/js/main.cfb623f5.js.map",
     "787.9b855c6a.chunk.js.map": "/climb_ri/static/js/787.9b855c6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4340c1c.css",
-    "static/js/main.9f95dc21.js"
+    "static/css/main.3a4f9fea.css",
+    "static/js/main.cfb623f5.js"
   ]
 }
